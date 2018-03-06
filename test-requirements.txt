@@ -1,0 +1,6 @@
+nose
+mock
+sniffer
+coverage
+codecov
+numpy
